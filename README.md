@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:markmanuel0317@gmail.com
+- 📫 How to reach me email: markmanuel0317@gmail.com
 
 <!---
 ch405maki/ch405maki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
