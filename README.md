@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ch405maki
+- 👋 Hi, I’m Mark Manuel
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
