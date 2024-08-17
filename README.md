@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mark Manuel
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Laravel, Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: markmanuel0317@gmail.com
 
